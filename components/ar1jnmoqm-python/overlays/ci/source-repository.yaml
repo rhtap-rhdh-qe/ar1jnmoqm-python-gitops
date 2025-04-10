@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ar1jnmoqm-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ar1jnmoqm-python
